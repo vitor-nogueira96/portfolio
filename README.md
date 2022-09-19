@@ -1,6 +1,6 @@
 # Portfólio 
 
-    Sejam bem-vindos(as)!!! Esse portfólio foi desenvolvimento por mim, enquanto estudante de desenvolvimeneto Web na Trybe :rocket: 
+    Sejam bem-vindos(as)!!! Esse portfólio foi desenvolvimento por mim, enquanto estudante de desenvolvimento Web na Trybe :rocket: 
 
 
-- [Portfólio - Vitor Nogueira](link)
+- [Portfólio - Vitor Nogueira ](link):white_check_mark:
